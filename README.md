@@ -1,4 +1,4 @@
-## material
+## Material
 
 - **House-colored.png**: Input color image for Bit-Plane slicing.
 - **House.png**: Grayscale version of the original image.
